@@ -1,0 +1,13 @@
+C:\Users\OptiNav\Desktop\ProjektSchwarzweller\ProjektSchwarzweller\bin\Debug\ProjektSchwarzweller.exe.config
+C:\Users\OptiNav\Desktop\ProjektSchwarzweller\ProjektSchwarzweller\bin\Debug\ProjektSchwarzweller.exe
+C:\Users\OptiNav\Desktop\ProjektSchwarzweller\ProjektSchwarzweller\bin\Debug\ProjektSchwarzweller.pdb
+C:\Users\OptiNav\Desktop\ProjektSchwarzweller\ProjektSchwarzweller\obj\Debug\ProjektSchwarzweller.csproj.AssemblyReference.cache
+C:\Users\OptiNav\Desktop\ProjektSchwarzweller\ProjektSchwarzweller\obj\Debug\ProjektSchwarzweller.csproj.SuggestedBindingRedirects.cache
+C:\Users\OptiNav\Desktop\ProjektSchwarzweller\ProjektSchwarzweller\obj\Debug\ProjektSchwarzweller.Form1.resources
+C:\Users\OptiNav\Desktop\ProjektSchwarzweller\ProjektSchwarzweller\obj\Debug\ProjektSchwarzweller.Properties.Resources.resources
+C:\Users\OptiNav\Desktop\ProjektSchwarzweller\ProjektSchwarzweller\obj\Debug\ProjektSchwarzweller.csproj.GenerateResource.cache
+C:\Users\OptiNav\Desktop\ProjektSchwarzweller\ProjektSchwarzweller\obj\Debug\ProjektSchwarzweller.csproj.CoreCompileInputs.cache
+C:\Users\OptiNav\Desktop\ProjektSchwarzweller\ProjektSchwarzweller\obj\Debug\ProjektSchwarzweller.exe
+C:\Users\OptiNav\Desktop\ProjektSchwarzweller\ProjektSchwarzweller\obj\Debug\ProjektSchwarzweller.pdb
+C:\Users\OptiNav\Desktop\ProjektSchwarzweller\ProjektSchwarzweller\obj\Debug\ProjektSchwarzweller.Form2.resources
+C:\Users\OptiNav\Desktop\ProjektSchwarzweller\ProjektSchwarzweller\obj\Debug\ProjektSchwarzweller.Form3.resources
